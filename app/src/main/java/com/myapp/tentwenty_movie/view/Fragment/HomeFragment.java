@@ -127,7 +127,7 @@ public class HomeFragment extends Fragment {
     {
         ArrayList<Result> results=new ArrayList<>();
         for (Result result1 : temp_list){
-            if (result1.getTitle().contains(newText)){
+            if (result1.getTitle().toLowerCase().contains(newText.toLowerCase())){
                 results.add(result1);
             }
         }
