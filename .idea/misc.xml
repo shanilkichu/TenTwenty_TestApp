@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.2641025641025641" />
+        <entry key="app/src/main/res/drawable/bg_bottomnav.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/bg_screen.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/bg_search_box.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/bg_ticket_button.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/bg_trailer_button.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/blackshade.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/bottom_sheet_background.xml" value="0.1465" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/layout/activity_moviedetails.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_search.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/layout/activity_seatbooking.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/layout/activity_videoview.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/layout/bottomsheet_layout.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/layout/custom_dialog_progress.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/layout/layou_toolbar.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/layou_toolbar2.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/layout/list_geners_item.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/layout/moview_item.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/menu/bottom_navigation.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.24166666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
